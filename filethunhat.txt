@@ -9,3 +9,5 @@ thay doi sau khi clone ve may thu 2
 thay doi tren may tinh 2 truoc roi push len de xay ra xung dot
 
 thay doi tren nahnvienA
+
+thay doi tren nhan vien B
