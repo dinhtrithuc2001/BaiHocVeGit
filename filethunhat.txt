@@ -4,10 +4,6 @@ day la file thu nhat lan 1
 
 day la file thu nhat lan 2
 
-<<<<<<< HEAD
-thay doi tren may 1 de xay ra confict
-=======
 thay doi sau khi clone ve may thu 2
 
 thay doi tren may tinh 2 truoc roi push len de xay ra xung dot
->>>>>>> bfac6a59dd12a4502b5d5be5cdbd9947980b0572
