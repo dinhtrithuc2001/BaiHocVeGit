@@ -5,3 +5,5 @@ day la file thu nhat lan 1
 day la file thu nhat lan 2
 
 thay doi sau khi clone ve may thu 2
+
+thay doi tren may tinh 2 truoc roi push len de xay ra xung dot
